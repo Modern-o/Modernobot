@@ -116,4 +116,4 @@ client.on("guildMemberAdd", async member => {
 
 
 
-client.login("OTAzNTI5ODE4MDQwMTg4OTM4.YXuTtw.iKwMejCa0QHxP7ljrZtN_GGbUtc"); // Login with the token make sure to add it when starting
+client.login("OTAzNTI5ODE4MDQwMTg4OTM4.YXuTtw.aXxZu5p8G790XaybE5DhvUkUpk4"); // Login with the token make sure to add it when starting
